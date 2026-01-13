@@ -89,7 +89,7 @@ Run the project with:
 --- 
 
 
-## 🏗️Project Structure
+## 🏗️Project-Structure
 
 ```sh
 └── 01-starting-project/
