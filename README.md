@@ -38,7 +38,7 @@ This app calculates investment results over time using:
 
 It then renders a results table showing the yearly breakdown.
 
-[![Live Demo](https://img.shields.io/badge/Click%20Here%20to%20Try-805AD5?style=for-the-badge&logo=google-chrome)]()
+[![Live Demo](https://img.shields.io/badge/Click%20Here%20to%20Try-805AD5?style=for-the-badge&logo=google-chrome)](https://investment-calculator-one-weld.vercel.app/)
 
 ---
 
