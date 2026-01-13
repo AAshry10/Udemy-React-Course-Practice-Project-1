@@ -22,7 +22,8 @@ A small React practice project (Udemy “React Essentials”) that calculates an
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Run the App](#run-the-app)
-- [Project Structure](#project-structure)
+- [Project Structure](#Project-Structure)
+- [License](#License)
 
 ---
 
@@ -86,6 +87,7 @@ Run the project with:
 **Navigate to your [localhost:5173](https://localhost:5173)**
 
 --- 
+
 
 ## 🏗️Project Structure
 
