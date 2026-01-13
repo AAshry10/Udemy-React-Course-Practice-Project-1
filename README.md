@@ -67,7 +67,7 @@ It then renders a results table showing the yearly breakdown.
 2. **Navigate to the project directory:**
 
     ```sh
-     cd 01-starting-project
+     cd Udemy-React-Course-Practice-Project-1
     ```
 
 3. **Install the dependencies:**
@@ -91,7 +91,7 @@ Run the project with:
 ## 🏗️Prooject Structure
 
 ```sh
-└── 01-starting-project/
+└── Udemy-React-Course-Practice-Project-1/
     ├── public/
     ├── src/
     │   ├── Components/
