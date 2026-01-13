@@ -64,7 +64,7 @@ It then renders a results table showing the yearly breakdown.
      git clone https://github.com/AAshry10/Udemy-React-Course-Practice-Project-1.git
     ```
 
-2. **Navigate to the project directory:**
+2. **Navigate to the project directory (If not already navigated):**
 
     ```sh
      cd Udemy-React-Course-Practice-Project-1
